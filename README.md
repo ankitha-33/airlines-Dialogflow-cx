@@ -1,4 +1,5 @@
-Airline Booking and Support Chatbot
+Airline Booking- Dialogflow -CX
+
 This repository contains the implementation of a Dialogflow-based chatbot designed for airline booking and support services. The bot assists users with various functionalities, such as flight availability and scheduling, booking status, flight status, lounge availability, and baggage inquiries.
 
 Use Case Overview
@@ -35,4 +36,8 @@ After setting up, users can interact with the chatbot to get real-time informati
 Contributing
 Please open issues or submit pull requests to contribute. The project is open for enhancements, including additional airline services and multi-language support.
 
-This repository is designed to streamline the airline support process, enhancing customer experience through automated, intelligent conversations.
+
+
+
+1. Welcome Page -
+
