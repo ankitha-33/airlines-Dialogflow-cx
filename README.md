@@ -50,7 +50,7 @@ When the user want to check the status of their booking if it's cancelled/comple
 3. Lounge Access -
    By using this Intent the user can Indentify if they are eligible to access the lounge
 
-![Lounge Access]
+![Lounge Access](https://github.com/user-attachments/assets/3f8496c2-db47-4b14-b9a1-b97fde437543)
 
 
 
