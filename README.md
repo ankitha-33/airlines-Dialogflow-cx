@@ -66,7 +66,13 @@ And the flow are as shown below -
 >>Queries for Bags and Laguage weights - 
 ![weight queries](https://github.com/user-attachments/assets/6cce5ab4-5f64-431f-afa8-78a239f5e628)
 
+5. The flow for booking a flight or to check the flight availability is as follows - 
+>>Happy flow - 
 
+![book flight](https://github.com/user-attachments/assets/4e904454-fcb9-4530-881f-bd04a1287337)
+![book flight](https://github.com/user-attachments/assets/66a11a18-5ece-472b-aa48-e4854ef7d6f7)
+![book flight](https://github.com/user-attachments/assets/267c8cf7-6d85-4baf-a45e-b94508995722)
+![book flight](https://github.com/user-attachments/assets/5d06723e-7d96-4544-95db-026bef8bca2e)
 
 
 
