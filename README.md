@@ -60,6 +60,9 @@ And the flow are as shown below -
 >>Queries for students- 
 ![studentqueries](https://github.com/user-attachments/assets/9bf1f2dd-982c-4201-b973-6424fa24b378)
 
+>>Queries for any restrictiosn - 
+
+
 
 
 
