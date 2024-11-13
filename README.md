@@ -47,4 +47,10 @@ When the user want to check the status of their booking if it's cancelled/comple
 ![Booking Intent](https://github.com/user-attachments/assets/44a46fb3-dcb8-41bc-83a7-5941d1a11b2d)
 
 
+3. Lounge Access -
+   By using this Intent the user can Indentify if they are eligible to access the lounge
+
+![Lounge Access]
+
+
 
