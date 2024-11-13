@@ -39,7 +39,7 @@ Please open issues or submit pull requests to contribute. The project is open fo
 
 
 
-1. ![Welcome Page]("https://github.com/user-attachments/assets/9ee3cf47-5f0e-4cf9-be55-f7479e68a0d2")
+1. ![Welcome Page](https://github.com/user-attachments/assets/9ee3cf47-5f0e-4cf9-be55-f7479e68a0d2)
 2. 
 
 
