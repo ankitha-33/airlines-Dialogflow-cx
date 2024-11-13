@@ -76,3 +76,10 @@ And the flow are as shown below -
 
 
 Here the custom payload is the card which displays the booking  availability for the critiera the user mentiond in the happy flow.
+
+
+Now let's try the flow for booking a flight by providing both source and destination source as the same  - 
+
+![Book](https://github.com/user-attachments/assets/1c1ea443-633c-4e34-97fa-fb4174a05599)
+
+Here both source and destination is considerd to be the same "Delhi", in the screenshot provided you can observe that when source is mentiond as Delhi and also the destination Delhi, the destination is considerd as "Null". 
