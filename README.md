@@ -64,7 +64,7 @@ And the flow are as shown below -
 ![restrictionqueries](https://github.com/user-attachments/assets/548d9737-1fb8-4448-bd60-eb597a289986)
 
 >>Queries for Bags and Laguage weights - 
-![weight queries]()
+![weight queries](https://github.com/user-attachments/assets/6cce5ab4-5f64-431f-afa8-78a239f5e628)
 
 
 
