@@ -44,7 +44,7 @@ When we start the flow as "Hi", "Hello", "what are you ?", "what can you do" etc
 2. Booking status Intent- 
 When the user want to check the status of their booking if it's cancelled/completed/pending, user questions the bot asking for the status for their booking. The flow is shown below - 
 
-![Booking Intent](https://github.com/user-attachments/assets/ea5a6f56-ed89-49ec-a4bb-ac76da699929)
+![Booking Intent](https://github.com/user-attachments/assets/ea5a6f56-ed89-49ec-a4bb-ac76da699929](https://github.com/user-attachments/assets/44a46fb3-dcb8-41bc-83a7-5941d1a11b2d)
 
 
 
