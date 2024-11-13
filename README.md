@@ -61,6 +61,7 @@ And the flow are as shown below -
 ![studentqueries](https://github.com/user-attachments/assets/9bf1f2dd-982c-4201-b973-6424fa24b378)
 
 >>Queries for any restrictiosn - 
+![restrictionqueries](https://github.com/user-attachments/assets/548d9737-1fb8-4448-bd60-eb597a289986)
 
 
 
