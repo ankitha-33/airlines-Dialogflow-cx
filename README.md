@@ -52,5 +52,13 @@ When the user want to check the status of their booking if it's cancelled/comple
 
 ![Lounge Access](https://github.com/user-attachments/assets/3f8496c2-db47-4b14-b9a1-b97fde437543)
 
+4. Queries-
+   In this intent we do have a sub topics as 
+>> Queries for students >> Queries for any restriction rules >> Queries regarding the Baggs and weights
+And the flow are as shown below - 
+
+>>Queries for students- 
+
+
 
 
