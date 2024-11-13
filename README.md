@@ -58,6 +58,7 @@ When the user want to check the status of their booking if it's cancelled/comple
 And the flow are as shown below - 
 
 >>Queries for students- 
+![studentqueries](https://github.com/user-attachments/assets/9bf1f2dd-982c-4201-b973-6424fa24b378)
 
 
 
