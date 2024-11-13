@@ -75,4 +75,4 @@ And the flow are as shown below -
 ![book flight](https://github.com/user-attachments/assets/5d06723e-7d96-4544-95db-026bef8bca2e)
 
 
-
+Here the custom payload is the card which displays the booking  availability for the critiera the user mentiond in the happy flow.
