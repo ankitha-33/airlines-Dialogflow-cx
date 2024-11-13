@@ -37,10 +37,14 @@ Contributing
 Please open issues or submit pull requests to contribute. The project is open for enhancements, including additional airline services and multi-language support.
 
 
+1. Welcome page - 
+When we start the flow as "Hi", "Hello", "what are you ?", "what can you do" etc, the bot responses as shown  -
+![Welcome Page](https://github.com/user-attachments/assets/9ee3cf47-5f0e-4cf9-be55-f7479e68a0d2)
 
+2. Booking status Intent- 
+When the user want to check the status of their booking if it's cancelled/completed/pending, user questions the bot asking for the status for their booking. The flow is shown below - 
 
-1. ![Welcome Page](https://github.com/user-attachments/assets/9ee3cf47-5f0e-4cf9-be55-f7479e68a0d2)
-2. 
+![Booking Intent]()
 
 
 
