@@ -78,8 +78,12 @@ And the flow are as shown below -
 Here the custom payload is the card which displays the booking  availability for the critiera the user mentiond in the happy flow.
 
 
+
 Now let's try the flow for booking a flight by providing both source and destination source as the same  - 
 
 ![Book](https://github.com/user-attachments/assets/1c1ea443-633c-4e34-97fa-fb4174a05599)
 
-Here both source and destination is considerd to be the same "Delhi", in the screenshot provided you can observe that when source is mentiond as Delhi and also the destination Delhi, the destination is considerd as "Null". 
+Here both source and destination is considerd to be the same "Delhi", in the screenshot provided you can observe that when source is mentiond as Delhi and also the destination Delhi, the destination is considerd as "Null". This is because the parameter perset is given a condition as "NULL" for the condition id "$Session.params.source == $session.params.destination" .
+
+![conditional Route](https://github.com/user-attachments/assets/f6195f71-651b-4b36-bb1e-f44cad4cae61)
+![conditional flow](https://github.com/user-attachments/assets/bda92960-30e5-429d-9d09-aaf1b147aa5f)
